@@ -1,0 +1,15 @@
+
+/* === BOTONES === */
+.btn-primary {
+    background-color: #01441c !important;
+    border-color: #070144 !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover {
+    background-color: #8295e3 !important;
+    border-color: #82e3aa !important;
+}
+
+/* === DATATABLES (respetar estilo por defecto) === */
+
