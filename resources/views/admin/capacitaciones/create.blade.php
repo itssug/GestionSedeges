@@ -10,7 +10,7 @@
     <main class="container mt-4">
         <div class="card shadow rounded-4 border-0">
             <div class="card-header bg-teal text-white">
-                <h4 class="mb-0 fw-semibold">Crear Nueva Capacitación</h4>
+                <h4 class="mb-0 fw-semibold">Crear Nueva Capacitación jshada</h4>
             </div>
 
             <div class="card-body">
