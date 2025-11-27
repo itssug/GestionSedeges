@@ -27,7 +27,7 @@
                         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>
                     </div>
                 @endif
-
+a
                 <form action="{{ route('evaluacionesMed.update', $evaluacion->id) }}" method="POST"
                     enctype="multipart/form-data" novalidate>
                     @csrf
