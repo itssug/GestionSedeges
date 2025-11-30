@@ -15,7 +15,7 @@
             </div>
 
             <div class="card-body">
-                {{-- Mostrar errores de validación wjhwjhd --}}
+                {{-- Mostrar errores de validación wjhwjhd  jad--}}
                 @if ($errors->any())
                     <div class="alert alert-danger alert-dismissible fade show" role="alert">
                         <strong>Por favor corrige los siguientes errores:</strong>
